@@ -372,3 +372,11 @@ a:hover {
   border-bottom: 1px dashed black;
   padding: 2%;
 }
+.strategy {
+  display: flex;
+  justify-content: space-evenly;
+}
+.HWW {
+  display: flex;
+  justify-content: space-evenly;
+}
